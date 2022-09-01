@@ -1,6 +1,7 @@
 
 body{
-    background-color: #151366;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 
@@ -11,10 +12,25 @@ h1{
     color: #EE70FA;
     border-color: #C75BF7;
     border-radius: 30px;
+    padding-bottom: 5px;
 }
 .pancakeFront {
-    width: 200px;
+    width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.smallodin{
+    width: 10%;
+    padding-top: 3px;
+}
+.steps {
+border: black;
+border: solid;
 
-
-
+}
+.pancakebox{
+    flex: auto;
+    
 }
