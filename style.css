@@ -1,8 +1,20 @@
+
+body{
+    background-color: #151366;
+}
+
+
 h1{
     text-align: center;
     border: solid;
+    text-emphasis-color: #EE70FA;
+    color: #EE70FA;
+    border-color: #C75BF7;
+    border-radius: 30px;
 }
-a {
-text-align: center;
+.pancakeFront {
+    width: 200px;
+
+
 
 }
