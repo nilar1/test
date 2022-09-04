@@ -1,16 +1,17 @@
 
 body{
-    background-color: white;
+    background-color: #D2AB99;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #04724D;
 }
 
 
 h1{
     text-align: center;
     border: solid;
-    text-emphasis-color: #EE70FA;
-    color: #EE70FA;
-    border-color: #C75BF7;
+    text-emphasis-color: #04724D;
+    color: #56876D;
+    border-color: #04724D;
     border-radius: 30px;
     padding-bottom: 5px;
 }
@@ -33,4 +34,27 @@ border: solid;
 .pancakebox{
     flex: auto;
     
+}
+h2, a {
+    color: #04724D;
+    text-align: center;
+    
+}
+br {
+    height: 100px;
+}
+
+/* PANCAKES */
+
+.overskrift {
+    font-size: 40px;
+    display: inline
+}
+.overskrift1 {
+    display: inline;
+    font-size: 25px;
+
+}
+.forsteparagraf{
+    padding-left: 15%;
 }
